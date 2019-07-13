@@ -18,3 +18,5 @@ email:gracegirinema@gmail.com
 everyone can share the app
 ### License
 Copyright (c) {2019}
+##contibutors
+clary'shop
