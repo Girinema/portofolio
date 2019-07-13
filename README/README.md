@@ -10,3 +10,5 @@ it's an online store tath sell and ships cosmetics products
 * log in with your email account
 ## Known Bugs
 no bugs
+## Technologies Used
+language used html css and js
