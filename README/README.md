@@ -8,3 +8,5 @@ it's an online store tath sell and ships cosmetics products
 * click download
 * install in you phone
 * log in with your email account
+## Known Bugs
+no bugs
