@@ -16,3 +16,5 @@ language used html css and js
 email:gracegirinema@gmail.com
 ## more
 everyone can share the app
+### License
+Copyright (c) {2019}
