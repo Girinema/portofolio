@@ -12,3 +12,7 @@ it's an online store tath sell and ships cosmetics products
 no bugs
 ## Technologies Used
 language used html css and js
+## Support and contact details
+email:gracegirinema@gmail.com
+## more
+everyone can share the app
